@@ -1,4 +1,7 @@
- import RPi.GPIO as GPIO
+git clone https://github.com/Majdawad88/ECET411_rotaryEncoder.git
+
+
+import RPi.GPIO as GPIO
 import time
  
 #GPIO Mode (BOARD / BCM)
